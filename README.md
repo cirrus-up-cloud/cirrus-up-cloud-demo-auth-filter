@@ -16,7 +16,7 @@
 mvn package
 
 * Run the jar in **dev** mode
-java  -Dspring.profiles.active=dev  -jar target/cirrus-spring-actuator-to-cloudwatch-demo-1.0-SNAPSHOT.jar
+java  -Dspring.profiles.active=dev  -jar target/cirrus-up-cloud-demo-auth-filter-1.0-SNAPSHOT.jar
 
 
 ### Curl Requests ###
